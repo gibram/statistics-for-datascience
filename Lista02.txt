@@ -1,0 +1,31 @@
+Lista 02 de FECD
+
+Criar um notebook python (ou um arquivo .py) que refaça os gráficos e cálculos básicos feitos usando o R nos slides da aula de visualização e estatísticas básicas. Mostrar apenas os comandos, não precisa salvar os gráficos. 
+
+Vamos usar os dados de pressão sanguínea (sistólica) no arquivo BloodPressure01.txt (na webpage do curso. Os dados foram extraídos desse site (se ainda existir):
+http://www.math.yorku.ca/Who/Faculty/Ng/ssc2003/BPMain.htm
+
+Vamos também usar os dados de população por município (arquivo na webpage da disciplina)
+
+
+Mais especificamente, fazer o seguinte: 
+- Usando pandas, ler os dados do arquivo BloodPressure01.txt 
+- reproduzir os comandos do slide 10 de T01-RDados.pdf
+- histograma básico do slide 13
+- gráficos do slide 15
+
+- Usando pandas, ler os dados de população por município: arquivo POP2006.csv
+- Refazer os histogramas dos slides 17 e 18
+
+- Usando pandas, ler os dados de futebol do arquivo CampeonatoBrasileiro2014.txt
+- Refazer os stem-and-leaf (ramo-e-folhas) dos slides 21 e 22
+https://www.geeksforgeeks.org/stem-and-leaf-plots-in-python/  
+
+- Com os dados do arquivo de pressão sistólica, refazer o box-plot simples do slide 23
+- Refazer slides 28, 29, 30, 33
+
+- Usando os dados do arquivo mtcars.csv, fazer uma matriz de scatterplots como no slide 38. Ver a descrição das variáveis (que eu já não me lembrava em sala de aula) aqui:
+https://rpubs.com/neros/61800
+
+
+
